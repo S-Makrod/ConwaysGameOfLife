@@ -45,7 +45,7 @@ public class SMConwaysGameofLife extends JFrame implements ActionListener, Chang
 
         JLabel choose = new JLabel("Drag or click to either (40% chance of success): ");
 
-        JLabel note = new JLabel("Note: Do add a file extension as it is automatically done for you!");
+        JLabel note = new JLabel("Note: Do not add a file extension as it is automatically done for you!");
 
         JPanel one = new JPanel();//Panels created to manage layout better
         JPanel two = new JPanel();
